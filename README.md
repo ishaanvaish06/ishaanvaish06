@@ -15,8 +15,29 @@
 ---
 
 ### 🛠️ My Tech Stack
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,docker,github,aws" />
+  <a href="https://github.com/ishaanvaish06?tab=repositories&q=&language=javascript">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40" />
+  </a>
+  <a href="https://github.com/ishaanvaish06?tab=repositories&q=&language=typescript">
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="40" />
+  </a>
+  <a href="https://github.com/ishaanvaish06?tab=repositories&q=react">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" height="40" />
+  </a>
+  <a href="https://github.com/ishaanvaish06?tab=repositories&q=node">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" height="40" />
+  </a>
+  <a href="https://github.com/ishaanvaish06?tab=repositories&q=mongodb">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40" />
+  </a>
+  <a href="https://github.com/ishaanvaish06?tab=repositories&q=docker">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40" />
+  </a>
+  <a href="https://github.com/ishaanvaish06?tab=repositories&q=aws">
+    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="40" />
+  </a>
 </p>
 
 ---
