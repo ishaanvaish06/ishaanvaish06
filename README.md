@@ -26,9 +26,6 @@
   <a href="https://github.com/ishaanvaish06?tab=repositories&q=&language=c%2B%2B">
     <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="40" />
   </a>
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
-    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" height="40" />
-  </a>
   <a href="https://github.com/ishaanvaish06?tab=repositories&q=&language=javascript">
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40" />
   </a>
