@@ -7,9 +7,9 @@
 ---
 
 ### 💫 About Me
-- 🔭 I’m currently working on **[Insert Project Name]**
+- 🔭 I’m currently working on a AI Tutor built using reinforcement learning. 
 - 🌱 I’m currently learning **Advanced System Design and AI Integration**
-- 💬 Ask me about **React, Node.js, or why the dark mode is superior**
+- 💬 Ask me about **C++,React, Java, or why the dark mode is superior**
 - ⚡ Fun fact: **I code better when the sun is down.**
 
 ---
@@ -17,26 +17,29 @@
 ### 🛠️ My Tech Stack
 
 <p align="left">
-  <a href="https://github.com/ishaanvaish06?tab=repositories&q=&language=javascript">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40" />
+  <a href="https://github.com/ishaanvaish06?tab=repositories&q=&language=java">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" height="40" />
+  </a>
+  <a href="https://github.com/ishaanvaish06?tab=repositories&q=&language=c">
+    <img src="https://skillicons.dev/icons?i=c" alt="C" height="40" />
   </a>
   <a href="https://github.com/ishaanvaish06?tab=repositories&q=&language=c%2B%2B">
     <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="40" />
+  </a>
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" height="40" />
+  </a>
+  <a href="https://github.com/ishaanvaish06?tab=repositories&q=&language=javascript">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40" />
+  </a>
+  <a href="https://github.com/ishaanvaish06?tab=repositories&q=react">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" height="40" />
   </a>
   <a href="https://github.com/ishaanvaish06?tab=repositories&q=&language=html">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="40" />
   </a>
   <a href="https://github.com/ishaanvaish06?tab=repositories&q=&language=css">
     <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="40" />
-  </a>
-  <a href="https://github.com/ishaanvaish06?tab=repositories&q=react">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" height="40" />
-  </a>
-  <a href="https://github.com/ishaanvaish06?tab=repositories&q=tailwind">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" height="40" />
-  </a>
-  <a href="https://github.com/ishaanvaish06?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
   </a>
 </p>
 
@@ -58,7 +61,7 @@
 ### 🐍 Contribution Journey
 ![Snake animation](https://raw.githubusercontent.com/ishaanvaish06/ishaanvaish06/output/github-contribution-grid-snake.svg)
 
-<p align="right">(The snake eats my commits! ☝️)</p>
+<p align="right"></p>
 
 ---
 
