@@ -33,8 +33,11 @@
 
 ---
 
-### 🐍 My Contributions
-![Snake animation](https://github.com/ishaanvaish06/ishaanvaish06/blob/output/github-contribution-grid-snake.svg)
+
+### 🐍 Contribution Journey
+![Snake animation](https://raw.githubusercontent.com/ishaanvaish06/ishaanvaish06/output/github-contribution-grid-snake.svg)
+
+<p align="right">(The snake eats my commits! ☝️)</p>
 
 ---
 
