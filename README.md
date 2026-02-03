@@ -20,23 +20,23 @@
   <a href="https://github.com/ishaanvaish06?tab=repositories&q=&language=javascript">
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40" />
   </a>
-  <a href="https://github.com/ishaanvaish06?tab=repositories&q=&language=typescript">
-    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="40" />
+  <a href="https://github.com/ishaanvaish06?tab=repositories&q=&language=c%2B%2B">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="40" />
+  </a>
+  <a href="https://github.com/ishaanvaish06?tab=repositories&q=&language=html">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="40" />
+  </a>
+  <a href="https://github.com/ishaanvaish06?tab=repositories&q=&language=css">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="40" />
   </a>
   <a href="https://github.com/ishaanvaish06?tab=repositories&q=react">
     <img src="https://skillicons.dev/icons?i=react" alt="React" height="40" />
   </a>
-  <a href="https://github.com/ishaanvaish06?tab=repositories&q=node">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" height="40" />
+  <a href="https://github.com/ishaanvaish06?tab=repositories&q=tailwind">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" height="40" />
   </a>
-  <a href="https://github.com/ishaanvaish06?tab=repositories&q=mongodb">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40" />
-  </a>
-  <a href="https://github.com/ishaanvaish06?tab=repositories&q=docker">
-    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40" />
-  </a>
-  <a href="https://github.com/ishaanvaish06?tab=repositories&q=aws">
-    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="40" />
+  <a href="https://github.com/ishaanvaish06?tab=repositories">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
   </a>
 </p>
 
