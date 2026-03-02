@@ -9,8 +9,7 @@
 ### 💫 About Me
 - 🔭 I’m currently working on a AI Tutor built using reinforcement learning. 
 - 🌱 I’m currently learning **Advanced System Design and AI Integration**
-- 💬 Ask me about **C++,React, Java, or why the dark mode is superior**
-- ⚡ Fun fact: **I code better when the sun is down.**
+- 💬 Programming languages: **C++,React, Java**
 
 ---
 
