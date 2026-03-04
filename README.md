@@ -1,4 +1,4 @@
-# Hi there, I'm Ishaan! 👋 
+# Hi there, I'm Ishaan! 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Creative+Problem+Solver;Tech+Enthusiast;Always+Learning..." alt="Typing SVG" />
@@ -7,9 +7,8 @@
 ---
 
 ### 💫 About Me
-- 🔭 I’m currently working on a AI Tutor built using reinforcement learning. 
-- 🌱 I’m currently learning **Advanced System Design and AI Integration**
-- 💬 Programming languages: **C++,React, Java**
+- 🔭 I’m currently learning to **PROGRAM DEEP LEARNING ML MODELS**
+- 💬 Programming languages: **C++,C,Java,JS,PYTHON**
 
 ---
 
